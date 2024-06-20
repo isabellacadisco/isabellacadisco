@@ -1,6 +1,6 @@
 ## Hi! :potted_plant: I'm Isabella 
 
-- :memo:pencil: I’m currently writing my thesis 
+- :memo: I’m currently writing my thesis 
 
 <!--
 **isabellacadisco/isabellacadisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
