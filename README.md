@@ -1,4 +1,4 @@
-## Hi!👋 I'm Isabella
+## Hi!I'm Isabella :potted_plant:
 
 
 
