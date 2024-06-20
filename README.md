@@ -1,5 +1,7 @@
 ## Hi! :potted_plant: I'm Isabella 
 
+- :classical_building: 
+- :woman_student: I came to appreciate the beauty of technology and data during my bachelor's degree in Computer Science for New Media Communications @UniMi
 - :memo: I'm currently writing my thesis for my master's degree in Data Science and Economics @UniMi
 - :computer: For my thesis project, I worked on named entity recognition in the Italian legal domain, mainly using :hugs:
 <!--
