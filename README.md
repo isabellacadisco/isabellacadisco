@@ -1,7 +1,7 @@
 ## Hi! :potted_plant: I'm Isabella 
 
-- :memo: I’m currently writing my thesis 
-
+- :memo: I'm currently writing my thesis for my master's degree in Data Science and Economics @UniMi
+- :computer: For my thesis project, I worked on named entity recognition in the Italian legal domain, mainly using :hugs:
 <!--
 **isabellacadisco/isabellacadisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
