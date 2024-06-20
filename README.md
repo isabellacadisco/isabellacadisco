@@ -1,9 +1,11 @@
 ## Hi! :potted_plant: I'm Isabella 
 
-- :classical_building: 
+- :classical_building: My first love was translation from ancient Greek and Latin
 - :woman_student: I came to appreciate the beauty of technology and data during my bachelor's degree in Computer Science for New Media Communications @UniMi
 - :memo: I'm currently writing my thesis for my master's degree in Data Science and Economics @UniMi
 - :computer: For my thesis project, I worked on named entity recognition in the Italian legal domain, mainly using :hugs:
+- :seedling: 
+
 <!--
 **isabellacadisco/isabellacadisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
